@@ -1,0 +1,9 @@
+601;Single;88
+602;Single;88
+603;Single;88
+605;Double;128
+606;Double;128
+607;Double;128
+608;Standard;168
+609;Standard;168
+610;Standard;168
