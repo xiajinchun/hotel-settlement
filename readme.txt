@@ -3,7 +3,7 @@
 
 Welcome to the Java Hotel Settlement application, a desktop application using Java programming language. It is used to manage and settle daily earnings for small hotel, is also substitute for traditional means by manually. Actually, I write this application for my family hotel.
 
-Application contains four main functions that Query, Check In, Check Out and Settlement. And it allows to add different room information(Room Number, Room Type, Room Price) through right format that show in class/data/room.txt file. The daily record will generate a record file in class/data/ folder, and it named as current date like ’yyyy-mm-dd’.
+Application contains four main functions that Query, Check In, Check Out and Settlement. And it allows to add different room information(Room Number, Room Type, Room Price) through right format that show in classes/data/room.txt file. The daily record will generate a record file in classes/data/ folder, and it named as current date like ’yyyy-mm-dd’.
 
 Query
 —————
