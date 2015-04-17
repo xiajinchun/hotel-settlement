@@ -34,4 +34,4 @@ A panel to show a day statistical information according selected date. And it ca
 ##License
 MIT
 
-[Colin Xia](https://github.com/colinjxia)
+[Jinchun Xia](https://github.com/xiajinchun)
