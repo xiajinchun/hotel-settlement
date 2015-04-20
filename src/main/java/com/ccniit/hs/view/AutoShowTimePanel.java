@@ -35,6 +35,7 @@ public class AutoShowTimePanel extends JPanel {
 				try {
 					Thread.sleep(1000);
 				} catch (Exception e) {
+					// 显示错误的信息
 					displayArea.setText("Error!!!");
 				}
 			}
